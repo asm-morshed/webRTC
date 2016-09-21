@@ -1,1 +1,5 @@
-# Web-RTC
+## Web-RTC
+
+## License 
+
+The MIT
